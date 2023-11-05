@@ -107,7 +107,7 @@ rustc --version
 cargo --version
 ```
 
-![图片](https://github.com/wpuing/rust_note/blob/main/img/imstall/check-02.png)
+![图片](https://github.com/wpuing/rust_note/blob/main/img/install/check-02.png)
 
 
 输入命令后出现版本信息则表示安装成功！
